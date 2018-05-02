@@ -1,4 +1,4 @@
-#git is fun and easy
+#git is fun and easy with feature1
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
